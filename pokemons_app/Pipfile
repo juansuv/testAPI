@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "*"
+uvicorn = "*"
+passlib = "*"
+bcrypt = "*"
+python-jose = "*"
+python-multipart = "*"
+SQLAlchemy = "*"
+requests = "*"
+bs4 = "*"
+pandas = "*"
+lxml = "*"
+openpyxl = "*"
+aiofiles = "*"
+jinja2 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
