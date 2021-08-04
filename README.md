@@ -90,7 +90,7 @@ Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones
 
 _desarrollo y diseño_
 
-* **Juan Diego Suarez Vargas** - *Desarrollo y Diseño* - [villanuevand](https://github.com/juansuv/)
+* **Juan Diego Suarez Vargas** - *Desarrollo y Diseño* - [Juan Suarez](https://github.com/juansuv/)
 
 ## Licencia 📄
 
