@@ -16,7 +16,7 @@ def get_all_from_service(db:Session):
     try:
         data = response.json()
         #for pokemon in range(1,data['count']):
-        for pokemon in range(1,300):
+        for pokemon in range(1,10):
             endpoint = f'https://{host}/{str(pokemon)}/'
             data = requests.get(endpoint).json()
             print(data['name'],data['sprites']['front_default'])
